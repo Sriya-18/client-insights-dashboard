@@ -41,9 +41,8 @@ Each lead is scored out of 100 based on:
 
 ## 📁 Project Structure
 ClientInsightsDashboard/
-├── data/ # Raw client dataset (CSV)
-├── reports/ # README and Python logic
-├── visuals/ # Screenshots of the Power BI dashboard
+├── data/     # Raw client dataset (CSV)
+├── visuals/   # Screenshots of the Power BI dashboard
 ├── lead_scoring_logic.py
 └── README.md
 
